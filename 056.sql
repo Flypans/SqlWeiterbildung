@@ -1,0 +1,3 @@
+SELECT COUNT(id)
+FROM angestellte
+WHERE abtID=500
